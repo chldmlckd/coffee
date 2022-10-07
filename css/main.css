@@ -265,6 +265,14 @@ section > h2{
     display:inline-block !important;
     margin-bottom:10px;
 }
+.btn_join{
+    background-color: #333;
+    color:#fff;
+}
+.btn_join:hover{
+    color:#333;
+    background-color: #D5C798;
+}
 .btn_login{
     width:110px;
     margin-left:6.5px;
